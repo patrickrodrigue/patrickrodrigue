@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 📊 Apaixonado por **Dados**: análise, visualização e insights  
-- 🌱 Atualmente estudando: **HTML, CSS, JavaScript, Python, SQL e Power BI**  
+- 🌱 Atualmente estudando: **HTML, CSS, JavaScript, PHP, Python, SQL e Power BI**  
 - ⚡ Em constante evolução, sempre em busca da minha melhor versão  
 
 ---
@@ -24,6 +24,7 @@
   <img align="center" alt="HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Power BI" height="60" width="70" src="https://img.icons8.com/color/96/000000/power-bi.png"/>
 </div>
 
