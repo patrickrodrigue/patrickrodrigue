@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Patrick 👋
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 📊 Apaixonado por **Dados**: análise, visualização e insights  
 - 🌱 Atualmente estudando: **HTML, CSS, JavaScript, PHP, Python, SQL e Power BI**  
 - ⚡ Em constante evolução, sempre em busca da minha melhor versão  
 
